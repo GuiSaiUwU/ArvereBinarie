@@ -11,11 +11,14 @@ O projeto inclui arquivos FXML, controladores e classes de estrutura (nós, árv
 
 ## Utilização
 
-No menu do programa selecione a opção "Selecionar Arquivo", então selecione um arquivo de texto (.txt), e clique em "Confirmar Seleção".
+- No menu do programa selecione a opção "Selecionar Arquivo"
+- Então selecione um arquivo de texto (.txt), e clique em "Confirmar Seleção".
 ![Imagem do menu inicial](.docs/MenuInicial.png)
 
-O programa vai realizar a criação de uma arvore binária balanceada com base nas palavras do texto.
+- O programa vai realizar a criação de uma arvore binária balanceada com base nas palavras do texto.
+- Exemplo de criação:
 ![Imagem do exemplo2](.docs/Exemplo2.png)
+- Outro exemplo:
 ![Imagem do exemplo1](.docs/Exemplo1.png)
 
 ## Requisitos
